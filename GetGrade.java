@@ -8,6 +8,7 @@ import java.util.Scanner;
 /**
  * @author Edward Flores
  * Grade Calculator for economy class.
+ * To use this just copy everything in gradebook and at the end type -1
  */
 
 public class GetGrade{
